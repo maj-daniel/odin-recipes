@@ -1,4 +1,4 @@
-# odin-recipies
+# odin-recipes
 
 This project will cover the use of the basics 
 elements of html to build a webpage, having a
