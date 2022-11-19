@@ -1,0 +1,46 @@
+body{
+    font-family: Verdana, Tahoma, sans-serif;
+    width: 90%;
+    margin: 0 auto 0 auto;
+}
+
+.title {
+    text-align: center;
+    color: rgb(2, 30, 39);
+    background-color: rgb(230, 248, 147);
+    font-weight: bold;
+    font-size: 48px;
+}
+
+#site-title {
+    font-size: 68px;
+}
+
+.recipe-list a {
+    font-size: 20px;
+}
+
+ul.recipe-list {
+    text-align: center;
+    list-style: none;
+}
+
+.recipe-img {
+    display: block;
+    width: 95%;
+    margin: 0 auto 0 auto;
+    max-width: 900px;
+}
+
+h2, h3 {
+    text-align: left;
+    color: rgb(75, 75, 75);
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 20px;
+}
